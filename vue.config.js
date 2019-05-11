@@ -17,6 +17,10 @@ module.exports = {
             selectorBlackList: ['van-circle__layer']
           })
         ]
+      },
+      less: {
+        modifyVars: {
+        }
       }
     }
   }

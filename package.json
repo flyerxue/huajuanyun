@@ -11,7 +11,8 @@
     "amfe-flexible": "^2.2.1",
     "core-js": "^2.6.5",
     "vant": "^1.6.17",
-    "vue": "^2.6.10"
+    "vue": "^2.6.10",
+    "vue-router": "^3.0.6"
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "^3.7.0",
